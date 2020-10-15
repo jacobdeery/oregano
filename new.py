@@ -9,5 +9,5 @@ def add_one(a):
 def config():
     return {
         'name': 'oregano',
-        'license': 'MIT'
+        'license': 'GPL'
     }
