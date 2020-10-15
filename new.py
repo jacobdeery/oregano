@@ -11,4 +11,4 @@ def name():
 
 
 def license():
-    return 'GPL'
+    return 'MIT'
