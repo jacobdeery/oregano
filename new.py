@@ -6,8 +6,9 @@ def add_one(a):
     return a + 1
 
 
-def config():
-    return {
-        'name': 'oregano',
-        'license': 'GPL'
-    }
+def name():
+    return 'oregano'
+
+
+def license():
+    return 'GPL'
