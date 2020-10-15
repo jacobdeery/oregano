@@ -7,7 +7,7 @@ def add_one(a):
 
 
 def name():
-    return 'oregano'
+    return 'basil'
 
 
 def license():
